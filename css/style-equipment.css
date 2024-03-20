@@ -136,9 +136,9 @@ nav a:hover {
 
 .formMount {
   display: flex;
-  /* flex-direction: row;
-   justify-content:flex-start; */
-  /* align-items: end; */
+  flex-direction: row;
+  justify-content:flex-start;
+  align-items: end;
   width: auto;
   height: 100%;
   /* padding-bottom: 3%; */
@@ -167,7 +167,7 @@ nav a:hover {
 
 select {
   min-width: auto;
-  padding-left: 20%;
+  padding-left: 5%;
   padding: 1%;
   opacity: 0.8;
   margin: 5%;
